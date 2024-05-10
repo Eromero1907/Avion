@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Avion
+comment1.params=nombreArchivo
+comment1.target=void\ leerEstructura(java.lang.String)
+comment2.params=fila\ columna\ nombre
+comment2.target=boolean\ agregarPasajero(int,\ int,\ java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
